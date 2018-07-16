@@ -1,6 +1,6 @@
 {
   "name": "express-es6-rest-api",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "Starter project for an ES6 RESTful Express API",
   "main": "dist",
   "scripts": {
@@ -24,12 +24,12 @@
       "no-unused-vars": 1
     }
   },
-  "repository": "developit/express-es6-rest-api",
-  "author": "Jason Miller <jason@developit.ca>",
+  "repository": "pcmnac/express-es6-rest-api",
+  "author": "Paulo COutinho <pcmnac@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "body-parser": "^1.18.2",
-    "compression": "^1.7.2",
+    "body-parser": "^1.18.3",
+    "compression": "^1.7.3",
     "cors": "^2.8.4",
     "express": "^4.16.3",
     "morgan": "^1.9.0",
